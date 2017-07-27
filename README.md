@@ -25,7 +25,7 @@ PLACEHOLDER
 ![](imgs/age1.png)
 
 * [AllegroBASIC](http://allegrobasic.pulsar2d.org/) - A classical BASIC dialect which let you code your own little programs with emphasis on drawing graphics primitives
-	* MY-BASIC as a programming tool
+	* MY-BASIC as a programming tool.
 
 ![](imgs/allegrobasic1.png)
 
@@ -48,4 +48,7 @@ PLACEHOLDER
 
 ### Web
 
-PLACEHOLDER
+* [WWIV BBS Software](http://www.wwivbbs.org/) - A computer bulletin board system (BBS)
+	* MY-BASIC as a programming tool.
+
+![](imgs/wwiv1.png)

@@ -1,8 +1,8 @@
-## Showcase
+## Awesome
 
-This is a list of projects powered by [MY-BASIC](https://github.com/paladin-t/my_basic/).
+This is a list of awesome projects powered by [MY-BASIC](https://github.com/paladin-t/my_basic/).
 
-Pull Request welcomed!
+Pull requests are welcome!
 
 ## Rules
 

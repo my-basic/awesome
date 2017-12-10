@@ -31,6 +31,11 @@ PLACEHOLDER
 
 ![](imgs/allegrobasic2.png)
 
+* [BASIC8](https://paladin-t.github.io/b8/) - A fantasy computer for game and other program development
+	* MY-BASIC as a programming language.
+
+![](imgs/basic81.png)
+
 * [Nasl](https://github.com/jacmoe/nasl/) - Nasl is Not A Sixteen-bit Library
 	* MY-BASIC as a scripting language.
 

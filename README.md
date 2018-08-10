@@ -36,6 +36,13 @@ PLACEHOLDER
 
 ![](imgs/basic81.png)
 
+* [Flexible Menu System](https://github.com/my-basic/awesome/issues/1)
+	* MY-BASIC as a scripting language.
+
+![](imgs/flexible_menu_system1.png)
+
+![](imgs/flexible_menu_system2.png)
+
 * [Nasl](https://github.com/jacmoe/nasl/) - Nasl is Not A Sixteen-bit Library
 	* MY-BASIC as a scripting language.
 

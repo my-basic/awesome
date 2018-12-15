@@ -2,20 +2,15 @@
 
 This is a list of awesome projects powered by [MY-BASIC](https://github.com/paladin-t/my_basic/).
 
-Pull requests are welcome!
-
-## Rules
-
-1. Can be any type; an app, a web site, a video game, and even a toaster in the real world, etc.
-2. Must provide at least a URL or an image.
-3. See existing files for naming rules to make PR.
-4. Ordered by alphabet.
-
 ## Categories
 
 ### Embedded
 
-PLACEHOLDER
+* [Debian Package Repository](http://repo.munts.com/debian9) - Munts Technologies Debian package
+
+* [Linux Simple I/O Library](http://git.munts.com/libsimpleio) - A library to communicate through Linux kernel A/D inputs, GPIO pins, and PWM outputs
+
+* [MuntsOS Embedded Linux](http://git.munts.com/arm-linux-mcu) - An embedded Linux framework on single board microcomputers
 
 ### Graphics/Game/Engine
 
@@ -64,3 +59,12 @@ PLACEHOLDER
 	* MY-BASIC as a programming tool.
 
 ![](imgs/wwiv1.png)
+
+## Contribution
+
+Pull requests are welcome!
+
+1. Can be any type of apps, web sites, video games, or even a toaster in the real world, etc.
+2. Must provide at least a URL or an image
+3. See existing files for naming rules to make PR
+4. Ordered by alphabet

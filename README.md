@@ -8,6 +8,8 @@ This is a list of awesome projects powered by [MY-BASIC](https://github.com/pala
 
 * [GridShell](https://github.com/invpe/GridShell) - Distributed Volunteer Computing with Ultra Low Power devices (IOT)
 
+![](imgs/gridshell_small1.png)
+
 ### Embedded
 
 * [Debian Package Repository](http://repo.munts.com/debian9) - Munts Technologies Debian package
